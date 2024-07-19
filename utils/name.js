@@ -22,9 +22,6 @@ function printName() {
 
     =   ${chalk.greenBright('Menu[4] Tools Bridge to Superseed Testnet ')}    =
 
-    =   ${chalk.magentaBright('Author: Prastian Hidayat')}                      =
-
-    =   ${chalk.magentaBright('NANANUNU')}         =
 
     +=================================================+
 
